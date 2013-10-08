@@ -9,6 +9,8 @@ sg
 unix
 squashfs
 usbhid
+hid
+hid-generic
 loop
 vfat
 aufs
